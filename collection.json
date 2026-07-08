@@ -1226,6 +1226,20 @@
       ],
       "image_url": "https://loosedrawing.com/assets/static/base/images/share_cover.png",
       "desc": "日本的免費插圖庫,線條鬆鬆的簡筆風格,可商用。廣告、簡報、企畫書配圖都好用。"
+    },
+    {
+      "id": "n_lummi",
+      "title": "Lummi",
+      "url": "https://www.lummi.ai/",
+      "main": "設計資源",
+      "sub": "素材",
+      "tags": [
+        "AI 圖庫",
+        "圖片素材",
+        "免費+付費"
+      ],
+      "image_url": "https://api.lummi.ai/api/og/home",
+      "desc": "AI 生成的圖庫,照片、插畫、3D 都有,品味經過人工挑選,不是那種一眼假的 AI 圖。免費區夠用,商用授權清楚。"
     }
   ]
 }
