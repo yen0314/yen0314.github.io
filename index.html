@@ -714,7 +714,7 @@ function fxRain(){
     for(let i=0;i<perCol;i++)names+='<div>'+esc(pickFrom(items).title)+'</div>';
     h+='<div class="fxcol" style="transition-duration:'+(1.9+c*0.4)+'s">'+names+'</div>';
   }
-  h+='</div><div class="fxwinwrap"><div class="fxwinlabel">🎲 抽中這個</div><div class="fxwinline">'+esc(win.title)+'</div><div class="fxwinbar"></div></div>';
+  h+='</div><div class="fxwinwrap"><div class="fxwinlabel">🎲 抽中</div><div class="fxwinline">'+esc(win.title)+'</div><div class="fxwinbar"></div></div>';
   ov.innerHTML=h;
   document.body.appendChild(ov); requestAnimationFrame(()=>ov.classList.add('in'));
   requestAnimationFrame(()=>requestAnimationFrame(()=>{
