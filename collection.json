@@ -30,17 +30,42 @@
   ]
  },
  "featured": [
+  "imryh6vqn",
+  "n_itsnicethat",
+  "n_brandnew",
+  "n_cntrl",
+  "n_browsecool",
+  "n_wwwtf",
   "n_60fps",
-  "n_cosmos",
   "n_pentagram",
-  "n_victad",
-  "n_jpda",
   "n_wannathis",
   "n_justfont",
   "n_visuhaus",
   "n_reve"
  ],
  "items": [
+  {
+   "id": "imryh6vqn",
+   "title": "Triangler三名治 - Triangler 三名治",
+   "url": "https://triangler.com.tw/",
+   "main": "靈感參考",
+   "sub": "",
+   "tags": [],
+   "desc": "三名治設計團隊，具豐富國際經驗，擅長協助品牌設計。用設計思維發現問題、讓溝通更簡單、用美學品味傳遞核心價值，精準打造最合適的品牌形象，讓品牌脫穎而出。",
+   "image_url": "https://triangler.com.tw/wp-content/uploads/2026/07/triangler-logo-square.jpg",
+   "added": 140
+  },
+  {
+   "id": "imryh5oop",
+   "title": "Transform Design 瑜悅設計｜品牌設計・品牌重塑・包裝設計・企業識別",
+   "url": "https://transform.tw/",
+   "main": "靈感參考",
+   "sub": "",
+   "tags": [],
+   "desc": "台北品牌設計公司｜Transform Design 瑜悅設計。專注商業轉型的全方位品牌識別設計與策略顧問公司。提供企業識別系統（CIS）、品牌重塑（Rebranding）、精品包裝設計與數位網站策略，服務橫跨食品餐飲、風格旅宿與消費品產業。以深度市場研究與視覺企劃力，將品牌核心價值轉化為具市場競爭力的識別資產。",
+   "image_url": "https://d1ejfmay68xzsv.cloudfront.net/08System/og-image-17126541846OFQl.jpg",
+   "added": 139
+  },
   {
    "id": "n_samhofman",
    "title": "Sam Hofman",
