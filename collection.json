@@ -45,6 +45,50 @@
  ],
  "items": [
   {
+   "id": "imryszoe2",
+   "title": "Parascope — デザインのScopeを、すべてのつくる人に。",
+   "url": "https://parascope.design/",
+   "main": "靈感參考",
+   "sub": "",
+   "tags": [],
+   "desc": "\"デザイン\"スキルを身につけられるキュレーションサイト。エンジニア・PM・あらゆる職種にデザインの視点を届けるメディア。",
+   "image_url": "https://parascope.design/og-main.png",
+   "added": 146
+  },
+  {
+   "id": "imrysz9jt",
+   "title": "TWOTONE | Context + Visual + Interface = Brand Design",
+   "url": "https://www.twotone.jp/",
+   "main": "靈感參考",
+   "sub": "靈感收集",
+   "tags": [],
+   "desc": "TWOTONE（ツートン）は、インターフェース・モーション・映像など、あらゆるスクリーン体験を起点に、人々とブランドの新しい接点を創出するデザインスタジオです。",
+   "image_url": "https://www.twotone.jp/assets/img/ogp.png",
+   "added": 145
+  },
+  {
+   "id": "imrysy9op",
+   "title": "Poch Studio",
+   "url": "https://poch.studio/",
+   "main": "靈感參考",
+   "sub": "視覺設計",
+   "tags": [],
+   "desc": "A design studio of skilled, passionate and talented friends who came together to help brands bloom through conscious, smart, and fresh design.",
+   "image_url": "https://framerusercontent.com/images/yDnlqWxATkV0dd8AGNtythaHw.png",
+   "added": 144
+  },
+  {
+   "id": "imrysuiba",
+   "title": "Symbl — Test your logo before the world does",
+   "url": "https://www.symbl.space/",
+   "main": "靈感參考",
+   "sub": "品牌標誌",
+   "tags": [],
+   "desc": "Upload your logo symbol and instantly see how it performs at every scale — from favicon to billboard.",
+   "image_url": "https://symbl.space/og.png",
+   "added": 143
+  },
+  {
    "id": "imryovu6t",
    "title": "SLP — Sorted Labeled Prompts",
    "url": "https://slp.gallery/explore",
